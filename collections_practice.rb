@@ -27,5 +27,9 @@ def find_a
 end
 
 def sum_array(array)
-  arrya
+  array.inject
+end
+
+def add_s
+  array.each_with_index.collect {|element, index| puts "s"
 end
